@@ -1,17 +1,8 @@
 <?php
 $static_title = 'Khronos SPIR Registry';
-$static_breadcrumb = array(
-    '/registry/' => 'Registry',
-    'NOLINK' => 'SPIR Registry'
-);
+
 include_once("../../assets/static_pages/khr_page_top.php");
 ?>
-
-<h1 class="pagetitle">Khronos SPIR&trade; Registry</h1>
-<div id="mainformat">
-
-
-<h1 style="text-align:center"> Khronos SPIR&trade; Registry </h1>
 
 <p> The SPIR registry contains specifications of the OpenCL Standard
     Portable Intermediate Representation, providing a non-source
